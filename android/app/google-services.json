@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366233651772",
+    "project_id": "flash-chat-162dd",
+    "storage_bucket": "flash-chat-162dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366233651772:android:25fb51f56cb444daff9139",
+        "android_client_info": {
+          "package_name": "co.boby.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366233651772-j8v9hcq61k2egf0uvsb69r1a0qqmobes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD130pK_UusE3GbD9r9Mhd_bvYG6SUe0Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366233651772-j8v9hcq61k2egf0uvsb69r1a0qqmobes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
